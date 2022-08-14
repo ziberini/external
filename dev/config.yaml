@@ -1,4 +1,4 @@
 cluster:
   owner: cluster-admin@company.com
   name: hello-dev
-  address: https://DED0A8E6446C393C1DB480614BBD7821.gr7.us-east-1.eks.amazonaws.com
+  address: https://42ACAC1134568444ADA706FC1867A234.gr7.us-east-1.eks.amazonaws.com
