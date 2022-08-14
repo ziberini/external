@@ -3,7 +3,7 @@
     "asset_id": "11223344",
     "cluster": {
       "owner": "cluster-admin@company.com",
-      "name": "engineering-dev",
-      "address": "http://1.2.3.4"
+      "name": "dev-cluster-argos",
+      "address": "https://06461B1FF808C47EBA5AF01B0C861044.gr7.us-east-1.eks.amazonaws.com"
     }
   }
