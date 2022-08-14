@@ -3,8 +3,8 @@
     "asset_id": "11223344",
     "cluster": {
       "owner": "cluster-admin@company.com",
-      "name": "dev-cluster-argos",
-      "address": "https://06461B1FF808C47EBA5AF01B0C861044.gr7.us-east-1.eks.amazonaws.com"
+      "name": "dev-cluster",
+      "address": "https://277860E8AAA7A88BB93F8E304EFD5DC6.gr7.us-east-1.eks.amazonaws.com"
     },
     "containers": {
       "image": "nginx"
