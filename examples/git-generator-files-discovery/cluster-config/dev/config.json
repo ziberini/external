@@ -3,7 +3,7 @@
     "asset_id": "11223344",
     "cluster": {
       "owner": "cluster-admin@company.com",
-      "name": "build",
-      "address": "https://F7FAEF4F270AF80662E5FF0D5F0B3A70.gr7.us-east-1.eks.amazonaws.com"
+      "name": "my-dev",
+      "address": "https://DED0A8E6446C393C1DB480614BBD7821.gr7.us-east-1.eks.amazonaws.com"
     }
   }
