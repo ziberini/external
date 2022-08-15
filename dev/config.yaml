@@ -2,3 +2,5 @@ cluster:
   owner: cluster-admin@company.com
   name: hello-dev
   address: https://2DC4BF72363C5E61F0F3F62D5394FCE3.gr7.us-east-1.eks.amazonaws.com
+containers:
+  image: httpd
