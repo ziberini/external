@@ -1,5 +1,6 @@
 cluster:
   name: hello-dev
   address: https://2DC4BF72363C5E61F0F3F62D5394FCE3.gr7.us-east-1.eks.amazonaws.com
-image: nginx
-tag: 1.23.1
+containers:
+  image: nginx
+  tag: 1.23.1
