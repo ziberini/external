@@ -5,7 +5,7 @@ nginx:
   image: nginx
   tag: 1.23.1
   labels: 
-    environment: production
+    environment: development
 guestbook:
   image: gcr.io/heptio-images/ks-guestbook-demo
   tag: 0.2
